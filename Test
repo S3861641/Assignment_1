@@ -1,0 +1,37 @@
+<html>
+	<head>
+		<title>ePortfolio</title>
+		<link type="text/css"rel="stylesheet"hef="style.css">
+	</head>
+
+	<body>
+		<div id="Interest in IT" class="quickFade">
+				<div id="mainArea">
+				
+				</div>
+		</div>
+
+		<div id="Ideal Job" class="quickFade">
+				<div id="mainArea">
+				
+				</div>
+		</div>
+
+		<div id="Ideal Job" class="quickFade">
+					<div id="mainArea">
+					
+					</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+
+	</body>
+</html>
